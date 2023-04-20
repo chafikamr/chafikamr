@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chafik Amraoui
 - 👀 I’m interested in full-stuck web development using PHP and Mysql .
-- 🌱 I’m currently learning PHP and batch scripting
+- 🌱 I’m currently learning Laravel framework
 - 💞️ I’m looking to collaborate on any project related to web development .
 - 📫 contact me on chafikamraoui0@gmail.com
 
